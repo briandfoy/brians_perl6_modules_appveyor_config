@@ -2,6 +2,10 @@
 
 [AppVeyor](https://www.appveyor.com) is a continuous integration service for Windows and Linux. I test my [public Perl 6 modules](https://github.com/briandfoy) on it and those modules often have the same AppVeyor configuration. This repository versions that common file.
 
+You can get the latest version of the file (say, in a shell script):
+
+	$ curl -O https://raw.githubusercontent.com/briandfoy/brians_perl6_modules_appveyor_config/master/.appveyor.yml
+
 I have similar repositories:
 
 * [Travis CI for Perl 5](https://github.com/briandfoy/brians_perl_modules_travis_config)
