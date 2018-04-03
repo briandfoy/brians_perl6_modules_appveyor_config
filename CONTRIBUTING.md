@@ -8,6 +8,6 @@ All of this stuff is licensed under the [Artistic License 2.0](LICENSE). If your
 
 ## Tell me about your idea
 
-* [Open an issue](https://github.com/briandfoy/brians_perl6_appveyor_config/issue) in GitHub.
+* [Open an issue](https://github.com/briandfoy/brians_perl6_modules_appveyor_config/issue) in GitHub.
 
-* [Send a Pull Request](https://github.com/briandfoy/brians_perl6_appveyor_config/pulls) in a new branch. We can always merge it to master later.
+* [Send a Pull Request](https://github.com/briandfoy/brians_perl6_modules_appveyor_config/pulls) in a new branch. We can always merge it to master later.
