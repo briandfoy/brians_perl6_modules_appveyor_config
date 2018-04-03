@@ -1,6 +1,6 @@
 # brian's Standard Configuration for Perl 6 Modules on AppVeyor
 
-[AppVeyor](https://www.appveyor.com) is a continuous integration service for Windows and Linux. I test my [public Perl modules](https://github.com/briandfoy) on it and those modules often have the same AppVeyor configuration. This repository versions that common file.
+[AppVeyor](https://www.appveyor.com) is a continuous integration service for Windows and Linux. I test my [public Perl 6 modules](https://github.com/briandfoy) on it and those modules often have the same AppVeyor configuration. This repository versions that common file.
 
 I have similar repostories:
 
